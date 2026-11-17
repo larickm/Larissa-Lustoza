@@ -1,6 +1,6 @@
 # Olá, eu sou a Larissa do Valle Lustoza 👋
 
-Estudante de **Ciência da Computação** na Universidade Positivo, em Curitiba – PR, em busca de uma oportunidade de **estágio em Dados e Análise de Dados**.
+Estudante de **Ciência da Computação** na Universidade Positivo, em Curitiba – PR, com foco em **Dados e Análise de Dados** e interesse em outras frentes de tecnologia, como Business Intelligence, Engenharia de Dados e Ciência de Dados. Busco uma oportunidade de estágio na área.
 
 ## Sobre mim
 
@@ -8,7 +8,7 @@ Tenho dois anos de experiência em rotinas administrativas, onde organizei e con
 
 ## Objetivos profissionais
 
-- Conquistar um estágio na área de Dados / Análise de Dados.
+- Conquistar um estágio em Dados, Análise de Dados ou áreas correlatas de tecnologia.
 - Desenvolver base sólida em SQL, Python e visualização de dados.
 - Construir, ao longo da graduação, um portfólio de projetos que mostre minha evolução.
 
@@ -16,18 +16,19 @@ Tenho dois anos de experiência em rotinas administrativas, onde organizei e con
 
 - Análise de Dados
 - Business Intelligence e dashboards
-- Banco de dados e SQL
-- Organização e qualidade da informação
+- Engenharia e Ciência de Dados
+- Banco de dados e qualidade da informação
 
-## Tecnologias
+## Tecnologias e para que servem
 
-| Estudando ou pretendo estudar | Base que já tenho |
-|---|---|
-| Python (pandas) | Lógica de programação |
-| SQL (consultas, joins e agregações) | SQL básico e banco de dados |
-| Power BI | Excel e pacote Office |
-| ETL e modelagem de dados | PHP básico |
-| Git e GitHub | Inglês básico (em evolução) |
+| Tecnologia | Como ajuda a resolver problemas de negócio | Situação |
+|---|---|---|
+| SQL | Extrair e consultar dados de bancos para responder perguntas da empresa | Base adquirida, aprofundando |
+| Python (pandas) | Limpar, tratar e automatizar o trabalho com grandes volumes de dados | Estudando |
+| Power BI | Transformar dados em dashboards que apoiam decisões | Estudando |
+| ETL e modelagem de dados | Organizar e carregar dados de várias fontes de forma confiável | Pretendo estudar |
+| Git e GitHub | Versionar projetos e compartilhar meu trabalho | Em uso |
+| Excel | Controlar e analisar informações no dia a dia | Em uso |
 
 ## Meu perfil na prática
 
@@ -38,6 +39,18 @@ Tenho dois anos de experiência em rotinas administrativas, onde organizei e con
 
 ## Portfólio
 
-Este perfil está sendo preparado para receber meus projetos. Em breve, aqui ficarão meus repositórios de análise de dados, dashboards e estudos de SQL e Python.
+Este perfil está preparado para receber meus projetos. Os repositórios serão listados aqui, organizados por tema:
 
+| Tema | Projeto | Tecnologias | Status |
+|---|---|---|---|
+| Análise de dados | Em breve | Python, pandas | Planejado |
+| Banco de dados | Em breve | SQL | Planejado |
+| Dashboards | Em breve | Power BI | Planejado |
 
+## Vamos conversar
+
+- LinkedIn: https://br.linkedin.com/in/larissa-lustoza-a4032622b
+- YouTube: https://www.youtube.com/larissalustoza
+- Instagram: https://www.instagram.com/larissalustoza.dados?psln=bHduMmE4bGwzY3E0
+- E-mail: contatolarissalustoza@gmail.com
+- Localização: Curitiba – PR, Brasil
