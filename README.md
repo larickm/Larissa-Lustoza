@@ -40,10 +40,4 @@ Tenho dois anos de experiência em rotinas administrativas, onde organizei e con
 
 Este perfil está sendo preparado para receber meus projetos. Em breve, aqui ficarão meus repositórios de análise de dados, dashboards e estudos de SQL e Python.
 
-## Vamos conversar
 
-- LinkedIn: [adicionar link]
-- YouTube: [adicionar link]
-- Instagram: [adicionar link]
-- E-mail: contatolarissalustoza@gmail.com
-- Localização: Curitiba – PR, Brasil
